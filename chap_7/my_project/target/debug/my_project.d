@@ -1,0 +1,1 @@
+/home/salmansiddiqui/Documents/rust/chap_7/my_project/target/debug/my_project: /home/salmansiddiqui/Documents/rust/chap_7/my_project/src/lib.rs /home/salmansiddiqui/Documents/rust/chap_7/my_project/src/main.rs
